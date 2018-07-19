@@ -1,0 +1,210 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/nvjscholar/Applications/MyMaps/app/src/main/AndroidManifest.xml:2:1-46:12
+INJECTED from /Users/nvjscholar/Applications/MyMaps/app/src/main/AndroidManifest.xml:2:1-46:12
+INJECTED from /Users/nvjscholar/Applications/MyMaps/app/src/main/AndroidManifest.xml:2:1-46:12
+INJECTED from /Users/nvjscholar/Applications/MyMaps/app/src/main/AndroidManifest.xml:2:1-46:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/f58104c51d407ea29536c4d6dca1f362/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.hotchemi:permissionsdispatcher:3.2.0] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/permissionsdispatcher-3.2.0.aar/35b6d6040093f156980c040965887d7f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-v13:27.1.1] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/support-v13-27.1.1.aar/1969122cfad56254df1b1a9364b2d5b2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.0.aar/aa07cc9f93e8419622c22ee972cdc417/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-location:15.0.0] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.0.aar/98b01c6249c309ad1b810955a6ed684f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/f90872521f34d121ecd60025c0416d75/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/a79e5d704f42f54d357da1fc247a6d95/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/637902a272a486f834e09d384e866915/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/2ff50c520e8b9db35dcf3bc2dc26a8d3/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/90dab6338c91041221260d541df20bf2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/a1affe0dcc54a00dfa9f5873ea096ea9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/b76307f82069f4f609a310169216ce2c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/eb2ada2ba81be9e660545ff5db326cc9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/7470773ea0a40eca7ce8e41130f78011/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/d51e531dacb25064be0f913dd3462549/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/0bd8e69ad933a82ed4dcc10870e57f4a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6600b809f91fca8f1a929112b12d4a26/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/88ecff8c18eb04e0e8695fe0317a9c61/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/fed52ae50d55408176a79eeea1e8c7d0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/97aa9099c139709a2deb6135c333936a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/af35f19c2bb8626856742cc29a0483be/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/nvjscholar/Applications/MyMaps/app/src/main/AndroidManifest.xml:2:1-46:12
+INJECTED from /Users/nvjscholar/Applications/MyMaps/app/src/main/AndroidManifest.xml:2:1-46:12
+INJECTED from /Users/nvjscholar/Applications/MyMaps/app/src/main/AndroidManifest.xml:2:1-46:12
+	package
+		ADDED from /Users/nvjscholar/Applications/MyMaps/app/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /Users/nvjscholar/Applications/MyMaps/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nvjscholar/Applications/MyMaps/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/nvjscholar/Applications/MyMaps/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/nvjscholar/Applications/MyMaps/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nvjscholar/Applications/MyMaps/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/nvjscholar/Applications/MyMaps/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/nvjscholar/Applications/MyMaps/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/nvjscholar/Applications/MyMaps/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nvjscholar/Applications/MyMaps/app/src/main/AndroidManifest.xml
+permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/nvjscholar/Applications/MyMaps/app/src/main/AndroidManifest.xml:7:5-109
+	android:protectionLevel
+		ADDED from /Users/nvjscholar/Applications/MyMaps/app/src/main/AndroidManifest.xml:7:72-107
+	android:name
+		ADDED from /Users/nvjscholar/Applications/MyMaps/app/src/main/AndroidManifest.xml:7:17-71
+permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/nvjscholar/Applications/MyMaps/app/src/main/AndroidManifest.xml:8:5-111
+	android:protectionLevel
+		ADDED from /Users/nvjscholar/Applications/MyMaps/app/src/main/AndroidManifest.xml:8:74-109
+	android:name
+		ADDED from /Users/nvjscholar/Applications/MyMaps/app/src/main/AndroidManifest.xml:8:17-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/nvjscholar/Applications/MyMaps/app/src/main/AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.0.aar/aa07cc9f93e8419622c22ee972cdc417/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.0.aar/aa07cc9f93e8419622c22ee972cdc417/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from /Users/nvjscholar/Applications/MyMaps/app/src/main/AndroidManifest.xml:10:22-76
+uses-permission#com.example.mapdemo.permission.MAPS_RECEIVE
+ADDED from /Users/nvjscholar/Applications/MyMaps/app/src/main/AndroidManifest.xml:11:5-83
+	android:name
+		ADDED from /Users/nvjscholar/Applications/MyMaps/app/src/main/AndroidManifest.xml:11:22-80
+uses-permission#android.permission.INTERNET
+ADDED from /Users/nvjscholar/Applications/MyMaps/app/src/main/AndroidManifest.xml:12:5-67
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.0.aar/aa07cc9f93e8419622c22ee972cdc417/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.0.aar/aa07cc9f93e8419622c22ee972cdc417/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from /Users/nvjscholar/Applications/MyMaps/app/src/main/AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/nvjscholar/Applications/MyMaps/app/src/main/AndroidManifest.xml:13:5-78
+	android:name
+		ADDED from /Users/nvjscholar/Applications/MyMaps/app/src/main/AndroidManifest.xml:13:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/nvjscholar/Applications/MyMaps/app/src/main/AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from /Users/nvjscholar/Applications/MyMaps/app/src/main/AndroidManifest.xml:14:22-78
+uses-feature#0x00020000
+ADDED from /Users/nvjscholar/Applications/MyMaps/app/src/main/AndroidManifest.xml:16:5-18:35
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.0.aar/aa07cc9f93e8419622c22ee972cdc417/AndroidManifest.xml:26:5-28:35
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.0.aar/aa07cc9f93e8419622c22ee972cdc417/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from /Users/nvjscholar/Applications/MyMaps/app/src/main/AndroidManifest.xml:17:9-41
+	android:required
+		ADDED from /Users/nvjscholar/Applications/MyMaps/app/src/main/AndroidManifest.xml:18:9-32
+application
+ADDED from /Users/nvjscholar/Applications/MyMaps/app/src/main/AndroidManifest.xml:20:5-44:19
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.0.aar/aa07cc9f93e8419622c22ee972cdc417/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.0.aar/aa07cc9f93e8419622c22ee972cdc417/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-location:15.0.0] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.0.aar/98b01c6249c309ad1b810955a6ed684f/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:15.0.0] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.0.aar/98b01c6249c309ad1b810955a6ed684f/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/f90872521f34d121ecd60025c0416d75/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/f90872521f34d121ecd60025c0416d75/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/a79e5d704f42f54d357da1fc247a6d95/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/a79e5d704f42f54d357da1fc247a6d95/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/637902a272a486f834e09d384e866915/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/637902a272a486f834e09d384e866915/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/2ff50c520e8b9db35dcf3bc2dc26a8d3/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/2ff50c520e8b9db35dcf3bc2dc26a8d3/AndroidManifest.xml:22:5-26:19
+	android:label
+		ADDED from /Users/nvjscholar/Applications/MyMaps/app/src/main/AndroidManifest.xml:23:9-41
+	android:icon
+		ADDED from /Users/nvjscholar/Applications/MyMaps/app/src/main/AndroidManifest.xml:22:9-45
+	android:allowBackup
+		ADDED from /Users/nvjscholar/Applications/MyMaps/app/src/main/AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from /Users/nvjscholar/Applications/MyMaps/app/src/main/AndroidManifest.xml:24:9-40
+activity#com.example.mapdemo.MapDemoActivity
+ADDED from /Users/nvjscholar/Applications/MyMaps/app/src/main/AndroidManifest.xml:25:9-33:20
+	android:label
+		ADDED from /Users/nvjscholar/Applications/MyMaps/app/src/main/AndroidManifest.xml:27:13-45
+	android:name
+		ADDED from /Users/nvjscholar/Applications/MyMaps/app/src/main/AndroidManifest.xml:26:13-63
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/nvjscholar/Applications/MyMaps/app/src/main/AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from /Users/nvjscholar/Applications/MyMaps/app/src/main/AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from /Users/nvjscholar/Applications/MyMaps/app/src/main/AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/nvjscholar/Applications/MyMaps/app/src/main/AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from /Users/nvjscholar/Applications/MyMaps/app/src/main/AndroidManifest.xml:31:27-74
+uses-library#com.google.android.maps
+ADDED from /Users/nvjscholar/Applications/MyMaps/app/src/main/AndroidManifest.xml:35:9-88
+	android:required
+		ADDED from /Users/nvjscholar/Applications/MyMaps/app/src/main/AndroidManifest.xml:35:23-46
+	android:name
+		ADDED from /Users/nvjscholar/Applications/MyMaps/app/src/main/AndroidManifest.xml:35:47-85
+meta-data#com.google.android.maps.v2.API_KEY
+ADDED from /Users/nvjscholar/Applications/MyMaps/app/src/main/AndroidManifest.xml:37:9-39:59
+	android:value
+		ADDED from /Users/nvjscholar/Applications/MyMaps/app/src/main/AndroidManifest.xml:39:13-56
+	android:name
+		ADDED from /Users/nvjscholar/Applications/MyMaps/app/src/main/AndroidManifest.xml:38:13-62
+meta-data#com.google.android.gms.version
+ADDED from /Users/nvjscholar/Applications/MyMaps/app/src/main/AndroidManifest.xml:41:9-43:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/2ff50c520e8b9db35dcf3bc2dc26a8d3/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/2ff50c520e8b9db35dcf3bc2dc26a8d3/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from /Users/nvjscholar/Applications/MyMaps/app/src/main/AndroidManifest.xml:43:13-66
+	android:name
+		ADDED from /Users/nvjscholar/Applications/MyMaps/app/src/main/AndroidManifest.xml:42:13-58
+uses-sdk
+INJECTED from /Users/nvjscholar/Applications/MyMaps/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/nvjscholar/Applications/MyMaps/app/src/main/AndroidManifest.xml
+INJECTED from /Users/nvjscholar/Applications/MyMaps/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/f58104c51d407ea29536c4d6dca1f362/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/f58104c51d407ea29536c4d6dca1f362/AndroidManifest.xml:20:5-44
+MERGED from [com.github.hotchemi:permissionsdispatcher:3.2.0] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/permissionsdispatcher-3.2.0.aar/35b6d6040093f156980c040965887d7f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.hotchemi:permissionsdispatcher:3.2.0] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/permissionsdispatcher-3.2.0.aar/35b6d6040093f156980c040965887d7f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v13:27.1.1] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/support-v13-27.1.1.aar/1969122cfad56254df1b1a9364b2d5b2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.1.1] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/support-v13-27.1.1.aar/1969122cfad56254df1b1a9364b2d5b2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.0.aar/aa07cc9f93e8419622c22ee972cdc417/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.0.aar/aa07cc9f93e8419622c22ee972cdc417/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:15.0.0] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.0.aar/98b01c6249c309ad1b810955a6ed684f/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:15.0.0] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.0.aar/98b01c6249c309ad1b810955a6ed684f/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/f90872521f34d121ecd60025c0416d75/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/f90872521f34d121ecd60025c0416d75/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/a79e5d704f42f54d357da1fc247a6d95/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/a79e5d704f42f54d357da1fc247a6d95/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/637902a272a486f834e09d384e866915/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/637902a272a486f834e09d384e866915/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/2ff50c520e8b9db35dcf3bc2dc26a8d3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/2ff50c520e8b9db35dcf3bc2dc26a8d3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/90dab6338c91041221260d541df20bf2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/90dab6338c91041221260d541df20bf2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/a1affe0dcc54a00dfa9f5873ea096ea9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/a1affe0dcc54a00dfa9f5873ea096ea9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/b76307f82069f4f609a310169216ce2c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/b76307f82069f4f609a310169216ce2c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/eb2ada2ba81be9e660545ff5db326cc9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/eb2ada2ba81be9e660545ff5db326cc9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/7470773ea0a40eca7ce8e41130f78011/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/7470773ea0a40eca7ce8e41130f78011/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/d51e531dacb25064be0f913dd3462549/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/d51e531dacb25064be0f913dd3462549/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/0bd8e69ad933a82ed4dcc10870e57f4a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/0bd8e69ad933a82ed4dcc10870e57f4a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6600b809f91fca8f1a929112b12d4a26/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6600b809f91fca8f1a929112b12d4a26/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/88ecff8c18eb04e0e8695fe0317a9c61/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/88ecff8c18eb04e0e8695fe0317a9c61/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/fed52ae50d55408176a79eeea1e8c7d0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/fed52ae50d55408176a79eeea1e8c7d0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/97aa9099c139709a2deb6135c333936a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/97aa9099c139709a2deb6135c333936a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/af35f19c2bb8626856742cc29a0483be/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/af35f19c2bb8626856742cc29a0483be/AndroidManifest.xml:20:5-44
+INJECTED from /Users/nvjscholar/Applications/MyMaps/app/src/main/AndroidManifest.xml
+INJECTED from /Users/nvjscholar/Applications/MyMaps/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/nvjscholar/Applications/MyMaps/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nvjscholar/Applications/MyMaps/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nvjscholar/Applications/MyMaps/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/nvjscholar/Applications/MyMaps/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nvjscholar/Applications/MyMaps/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nvjscholar/Applications/MyMaps/app/src/main/AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/f90872521f34d121ecd60025c0416d75/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/f90872521f34d121ecd60025c0416d75/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/f90872521f34d121ecd60025c0416d75/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/nvjscholar/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/f90872521f34d121ecd60025c0416d75/AndroidManifest.xml:24:13-79
