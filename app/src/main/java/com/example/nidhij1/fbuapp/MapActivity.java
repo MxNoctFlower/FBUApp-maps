@@ -3,6 +3,7 @@ package com.example.nidhij1.fbuapp;
 import android.Manifest;
 import android.app.Dialog;
 import android.content.pm.PackageManager;
+import android.graphics.Color;
 import android.location.Location;
 import android.os.Bundle;
 import android.os.Looper;
@@ -29,8 +30,13 @@ import com.google.android.gms.maps.GoogleMap;
 import com.google.android.gms.maps.OnMapReadyCallback;
 import com.google.android.gms.maps.SupportMapFragment;
 import com.google.android.gms.maps.model.LatLng;
+import com.google.android.gms.maps.model.Polyline;
+import com.google.android.gms.maps.model.PolylineOptions;
 import com.google.android.gms.tasks.OnFailureListener;
 import com.google.android.gms.tasks.OnSuccessListener;
+
+import java.util.ArrayList;
+import java.util.List;
 
 import permissions.dispatcher.NeedsPermission;
 import permissions.dispatcher.RuntimePermissions;
@@ -43,11 +49,19 @@ public class MapActivity extends AppCompatActivity {
     private SupportMapFragment mapFragment;
     private GoogleMap map;
     private LocationRequest mLocationRequest;
+    private ArrayList<Polyline> polylines;
     Location mCurrentLocation;
     private long UPDATE_INTERVAL = 60000;  /* 60 secs */
     private long FASTEST_INTERVAL = 5000; /* 5 secs */
 
     private final static String KEY_LOCATION = "location";
+    private final static LatLng P1 = new LatLng(37.35, -122.0);
+    private final static LatLng P2 = new LatLng(37.45, -122.0);
+    private final static LatLng P3 = new LatLng(37.45, -122.2);
+    private final static LatLng P4 = new LatLng(37.35, -122.2);
+    private final static LatLng P5 = new LatLng(37.35, -122.0);
+
+
 
     /*
      * Define a request code to send to Google Play services This code is
@@ -118,6 +132,7 @@ public class MapActivity extends AppCompatActivity {
                     public void onSuccess(Location location) {
                         if (location != null) {
                             onLocationChanged(location);
+                            makeRectangle(location);
                         }
                     }
                 })
@@ -218,12 +233,12 @@ public class MapActivity extends AppCompatActivity {
         }
 
         // Report to the UI that the location was updated
-
         mCurrentLocation = location;
         String msg = "Updated Location: " +
                 Double.toString(location.getLatitude()) + "," +
                 Double.toString(location.getLongitude());
         Toast.makeText(this, msg, Toast.LENGTH_SHORT).show();
+        makeRectangle(mCurrentLocation);
     }
 
     public void onSaveInstanceState(Bundle savedInstanceState) {
@@ -242,7 +257,6 @@ public class MapActivity extends AppCompatActivity {
             super();
             mDialog = null;
         }
-
         // Set the dialog to display
         public void setDialog(Dialog dialog) {
             mDialog = dialog;
@@ -254,6 +268,32 @@ public class MapActivity extends AppCompatActivity {
             return mDialog;
         }
     }
+
+    private void makeRectangle(Location location) {
+
+        // Instantiates a new Polyline object and adds points to define a rectangle
+       LatLng start = new LatLng(location.getLatitude(), location.getLongitude());
+        PolylineOptions rectOptions = new PolylineOptions()
+                .add(start)
+                .add(P2)// North of the previous point, but at the same longitude// Closes the polyline.
+                .width(10)
+                .color(Color.BLUE);
+
+        // Get back the mutable Polyline
+        Polyline polyline = map.addPolyline(rectOptions);
+        polylines = new ArrayList<>();
+    }
+
+    private void removeRectangle(Polyline polyline){
+
+        polyline.remove();
+    }
+
+    private void updateRectangle(Polyline polyline){
+
+    }
+
+
 
 }
 
